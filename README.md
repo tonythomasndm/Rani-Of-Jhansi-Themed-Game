@@ -18,3 +18,8 @@ In this game, we depict Rani's rebel nature towards British and their Doctrine o
 This Game was implemented with a makey-makey kit as controller. This game was built as a part of PIS endsem Project
 
 In this project I have utlised various gaming concepts and geometry. Understand the use of sprites and created jumping animations and sound effects.
+
+In order to use the game,
+1. Download Processing.ide from the official website and unzip the folder
+2. Download the code files from the repository, unzip it and click on the file "main3.pde" file in the folder "main3".
+3. Then run the file in processing.ide
