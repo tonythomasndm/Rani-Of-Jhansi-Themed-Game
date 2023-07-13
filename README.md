@@ -15,4 +15,6 @@ This game depicts the patriarchy during that period and sterotypes also. Like Ra
 
 In this game, we depict Rani's rebel nature towards British and their Doctrine of Lapse, by attacking on them as enemies.
 
-This Game was implemented with a makey-makey kit
+This Game was implemented with a makey-makey kit as controller. This game was built as a part of PIS endsem Project
+
+In this project I have utlised various gaming concepts and geometry. Understand the use of sprites and created jumping animations and sound effects.
